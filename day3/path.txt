@@ -1,0 +1,5 @@
+c:/temp/win32/src/temp1.c
+c:/temp/win32/src/temp2.c
+c:/templates/win32/src/temp3.c
+c:/temp/win32/src/temp4.c
+c:/temp/windows32/src/temp6.c

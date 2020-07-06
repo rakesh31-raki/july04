@@ -1,0 +1,16 @@
+Context Manager
+    using the keyword `with`
+
+
+what?
+    yet another programming construct
+
+
+ why?
+    to do IO eff.  (File, DB, Pipes, Sock, Lock)
+
+ how?
+    -code block
+    -handle couple of evenets
+        i. entry    (allocate the reasource) open
+        ii. exit    (deallocate), close

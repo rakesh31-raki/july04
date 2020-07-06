@@ -1,0 +1,15 @@
+regexp
+
+    operations
+        i. pattern matching
+        ii. find & replacement
+        iii. split
+
+
+characteristics of regexp
+    a. case sensitive
+    b. match only once in a line
+    c. sub strings
+    d. greedy in nature
+
+    king => am thinking 
