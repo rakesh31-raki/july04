@@ -1,0 +1,14 @@
+oops
+~~~~
+
+class
+object
+    -attribute
+    -method
+constructor
+destructor
+
+features
+    i. inheritance
+    ii. ploymorphism
+    iii.encapsulation /absraction
