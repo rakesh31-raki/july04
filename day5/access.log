@@ -1,0 +1,10 @@
+2020-07-08 21:12:41,443:DEBUG:root:psdemolog.py:4636:debug messages
+2020-07-08 21:12:41,444:INFO:root:psdemolog.py:4636:confirmation notes
+2020-07-08 21:12:41,444:WARNING:root:psdemolog.py:4636:warning message
+2020-07-08 21:12:41,444:ERROR:root:psdemolog.py:4636:an error information
+2020-07-08 21:12:41,444:CRITICAL:root:psdemolog.py:4636:panic error
+2020-07-08 21:12:52,015:DEBUG:root:psdemolog.py:4653:debug messages
+2020-07-08 21:12:52,016:INFO:root:psdemolog.py:4653:confirmation notes
+2020-07-08 21:12:52,016:WARNING:root:psdemolog.py:4653:warning message
+2020-07-08 21:12:52,016:ERROR:root:psdemolog.py:4653:an error information
+2020-07-08 21:12:52,016:CRITICAL:root:psdemolog.py:4653:panic error
